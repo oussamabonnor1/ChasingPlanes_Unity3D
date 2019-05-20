@@ -1,4 +1,7 @@
 # ChasingPlanes_Unity3D
+
+![GitHub license](https://img.shields.io/github/license/oussamabonnor1/SimpleCalculator-WPF.svg)
+
 A "Missiles" game replica, 2D fun mobile game about avoiding missiles while flying a plane.
 
 ## Screenshot:
