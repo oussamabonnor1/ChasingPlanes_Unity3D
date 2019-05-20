@@ -7,8 +7,14 @@ A "Missiles" game replica, 2D fun mobile game about avoiding missiles while flyi
 ## Game logic:
 Fly the planes using arrow keys and avoid missiles, beat your best score and last longer!
 
-## Engine & Language:
-* Unity3D & C#.
+## Tools used:
+* Visual studio (IDE)
+* C# (logic)
+* Unity (game engine)
+* Paint.Net (Image editting)
 
 ## Contribution:
-Pull requests are welcome, just make sure to use free license stuff.
+Feel free to `fork` this project and add whatever you like. If you have any suggestions or any comments please feel free to contact me or to open an issue, use free license art assets please.
+
+## Team:
+`Jetlighters` having fun.
